@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skriba E-ink</string>
+    <string name="helper_intro">Dá à Skriba a caneta rápida dos aparelhos Viwoods. Não precisa de abrir esta app: a Skriba liga-se a ela sozinha quando abre uma nota.</string>
+    <string name="helper_device_ok">✓ Aparelho compatível (Viwoods)</string>
+    <string name="helper_device_no">✗ Este aparelho não tem a caneta rápida do Viwoods</string>
+    <string name="helper_skriba_ok">✓ A Skriba está instalada</string>
+    <string name="helper_skriba_no">✗ A Skriba não está instalada</string>
+    <string name="helper_connected">● Caneta rápida ativa na Skriba</string>
+    <string name="helper_waiting">○ À espera da Skriba (abra uma nota)</string>
+    <string name="helper_open_skriba">Abrir a Skriba</string>
+    <string name="helper_support_title">Suporte</string>
+    <string name="helper_log_toggle">Guardar registo (só se o suporte pedir)</string>
+    <string name="helper_log_share">Partilhar registo</string>
+    <string name="helper_log_clear">Limpar registo</string>
+    <string name="helper_version">Versão %1$s</string>
+</resources>

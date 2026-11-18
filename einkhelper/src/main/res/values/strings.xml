@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skriba E-ink</string>
+    <string name="helper_intro">Gives Skriba the fast pen of Viwoods devices. You don\'t need to open this app: Skriba connects to it by itself when you open a note.</string>
+    <string name="helper_device_ok">✓ Compatible device (Viwoods)</string>
+    <string name="helper_device_no">✗ This device has no Viwoods fast pen</string>
+    <string name="helper_skriba_ok">✓ Skriba is installed</string>
+    <string name="helper_skriba_no">✗ Skriba is not installed</string>
+    <string name="helper_connected">● Fast pen active in Skriba</string>
+    <string name="helper_waiting">○ Waiting for Skriba (open a note)</string>
+    <string name="helper_open_skriba">Open Skriba</string>
+    <string name="helper_support_title">Support</string>
+    <string name="helper_log_toggle">Keep a log (only if support asks for it)</string>
+    <string name="helper_log_share">Share log</string>
+    <string name="helper_log_clear">Clear log</string>
+    <string name="helper_version">Version %1$s</string>
+</resources>
